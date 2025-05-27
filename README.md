@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Colin Torbus, welcome to my page!
 
 <!--
 **Colin-Torbus/Colin-Torbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am fairly new to programming, and have a decent foundation in python, have basic understanding of openpyxl and mysql.connector, and I am currently also learning SQL and MySQL server.
+- Currently I am working on database implementation for a new quoting and inventory software for my current workplace.
+- I can be reached for business inquiries at c.torbus@electricpicture.com
+- For the foreseeable future I will be furthering my knowledge of python and SQL, but want to branch out into c++ and java down the line.
