@@ -11,8 +11,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Programming Background
+I am fairly new to programming, and have a decent foundation in python, have basic understanding of openpyxl and mysql.connector, and I am currently also learning SQL and MySQL server.
 
-- I am fairly new to programming, and have a decent foundation in python, have basic understanding of openpyxl and mysql.connector, and I am currently also learning SQL and MySQL server.
-- Currently I am working on database implementation for a new quoting and inventory software for my current workplace.
-- I can be reached for business inquiries at c.torbus@electricpicture.com
-- For the foreseeable future I will be furthering my knowledge of python and SQL, but want to branch out into c++ and java down the line.
+### Work
+My main role is as an AV Systems Integrator, but have started to branch into a more technical role.
+Currently I am working on database implementation for a new quoting and inventory software for my current workplace.
+I can be reached for business inquiries at c.torbus@electricpicture.com
+
+### Education and the future.
+Currently I am studying for an AS in Information Technology at SNHU, and I am projected to finish by the end of March 2026.
+For the foreseeable future I will be furthering my knowledge of python and SQL, but want to branch out into c++ and java down the line.
