@@ -1,0 +1,44 @@
+Quote update Pseudocode
+
+
+def quote_item():
+    for item in header:
+        increment line item number by 1 and print QTY, MFR, model, description, country of origin, list price, extd amt
+        if taa and warranty is wanted, add to description.
+
+
+
+model numbers are ALWAYS UNIQUE
+
+classes for brands? could include warranty info, country of origin, manufacturer
+could also do classes for quote headers, and use them to autofill excel sheets
+
+
+want 2 dicts, one for our code, and one for the UI 
+    - for user sanity: group things into type -> mfr -> model
+    - for the code: everything goes based on type and model number 
+
+need teams implementation to act as the server
+
+
+quote revision number is added to the end of the quote number, 
+    -example: quote 1234 revision 8 is written as quote number '1234.8'
+    -first rev of quote is just the 1234
+
+"Job number" should be based on customer ID 
+    -example: northrop grumman could have job number NG-001, next grumman job should be NG-002, etc.
+    the 4 digit number that is normally used is acually the PO number
+
+    -once po is accepted, increment job num by 1: if NG-001 is accepted, next job number is NG-002
+
+
+
+
+WHEN UPDATING ABOM FROM QUOTE HAVE LINE ITEM BE ANCHOR
+
+add an "include" menu when creating quotes for taa, country of origin, or other accessory info
+
+
+
+later add RMA and shipping info
+later add "how did you find out about us" section
